@@ -1,0 +1,2 @@
+rootProject.name='Odometer_Android'
+include ':app'
